@@ -14,4 +14,7 @@ You’ll learn how to use mathematics and Python in everyday tasks, use third-pa
 1. Create a simple program which will print messages about some credit. 
 2. Communicate with the user to get necessary values, do simple mathematical operations and output the result.
 3. Calculate real credit parameters by using the mathematical capabilities of Python. 
-4. Make the credit calculator be able to work with different types of payment and to work with command-line arguments. 
+4. Make the credit calculator be able to work with different types of payment and to work with command-line arguments.
+
+## Comments
+This was the hardest project of the easy category because of converting and calculating floats and ints and when to round them as conversions gave different outputs so that was a challenege but once I figured out how to represent formulas properly everything else was a piece of cake. I also had fun with the argparse module as it's a very powerful module. I'll be able to enhance my pythons scripts with custom arguments and also add documentation for using the scripts.
