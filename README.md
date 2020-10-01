@@ -1,6 +1,6 @@
 # Loan Calculator
 
-[Easy] Completed Project From JetBrains Academy Python Developer Track
+[Easy] Completed Project From [JetBrains Academy Python Developer Track](https://www.jetbrains.com/academy/)
 
 [Project Link](https://hyperskill.org/projects/90?track=2)
 
@@ -17,4 +17,4 @@ You’ll learn how to use mathematics and Python in everyday tasks, use third-pa
 4. Make the credit calculator be able to work with different types of payment and to work with command-line arguments.
 
 ## Comments
-This was the hardest project of the easy category because of converting and calculating floats and ints and when to round them as conversions gave different outputs so that was a challenege but once I figured out how to represent formulas properly everything else was a piece of cake. I also had fun with the argparse module as it's a very powerful module. I'll be able to enhance my pythons scripts with custom arguments and also add documentation for using the scripts.
+This was the hardest project of the easy category because of converting and calculating floats and ints and when to round them as conversions gave different outputs so that was a challenege but once I figured out how to represent formulas properly everything else was a piece of cake. I also had fun with the [argparse module](https://docs.python.org/3/library/argparse.html) (Parser for command-line options, arguments and sub-commands) as it's a very powerful module. I'll be able to enhance my pythons scripts with custom arguments and also add documentation for using the scripts.
